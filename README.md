@@ -1,6 +1,6 @@
-# Advent of Code 2022 in Rust
+# Advent of Code 2023
 
-My [Advent of Code 2022][aoc-2023] solutions.
+My [Advent of Code 2023][aoc-2023] solutions.
 
 ## License
 
